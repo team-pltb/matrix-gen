@@ -2,7 +2,7 @@
 
 In the context of this practical we required a list of all (non-redundant) substitution models.
 Basically a model is a string of 6 digits in the range 1 to 6 (or 0 to 5) implying constraints by choosing the same value at different positions in the string.
-Further explanation can be found here: TODO
+Further explanation can be found here: http://mbe.oxfordjournals.org/content/21/6/1123.full.pdf+html
 
 ## Usage
 
